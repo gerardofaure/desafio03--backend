@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Arroz",
+    "description": "Arroz paquete 1 kilo",
+    "price": 1200,
+    "thumbnail": "001.jpg",
+    "code": "arroz123",
+    "stock": 35,
+    "id": 1
+  },
+  {
+    "title": "Vino",
+    "description": "Vino delicioso",
+    "price": 7500,
+    "thumbnail": "002.jpg",
+    "code": "vino123",
+    "stock": 30,
+    "id": 2
+  },
+  {
+    "title": "Papas",
+    "description": "Papas de la mejor calidad",
+    "price": 850,
+    "thumbnail": "003.jpg",
+    "code": "papas123",
+    "stock": 40,
+    "id": 3
+  },
+  {
+    "title": "Azúcar",
+    "description": "Azucar natural envase 1 kilo",
+    "price": 1150,
+    "thumbnail": "004.jpg",
+    "code": "azucar123",
+    "stock": 35,
+    "id": 4
+  },
+  {
+    "title": "Galleta",
+    "description": "Galleta chip de chocolate",
+    "price": 990,
+    "thumbnail": "005.jpg",
+    "code": "galleta123",
+    "stock": 35,
+    "id": 5
+  },
+  {
+    "title": "Gaseosa",
+    "description": "Coca-Cola 1.5 lt",
+    "price": 1800,
+    "thumbnail": "006.jpg",
+    "code": "gaseosa123",
+    "stock": 30,
+    "id": 6
+  },
+  {
+    "title": "Detergente",
+    "description": "Skipo 400 gr",
+    "price": 4300,
+    "thumbnail": "007.jpg",
+    "code": "detergente123",
+    "stock": 40,
+    "id": 7
+  },
+  {
+    "title": "Jabon",
+    "description": "Copito 180 gr",
+    "price": 890,
+    "thumbnail": "008.jpg",
+    "code": "jabon123",
+    "stock": 35,
+    "id": 8
+  },
+  {
+    "title": "Sal",
+    "description": "Sal gruesa 1 kilo",
+    "price": 650,
+    "thumbnail": "009.jpg",
+    "code": "sal123",
+    "stock": 35,
+    "id": 9
+  },
+  {
+    "title": "Aceite",
+    "description": "Oliva extra virgen",
+    "price": 3200,
+    "thumbnail": "010.jpg",
+    "code": "aceite123",
+    "stock": 30,
+    "id": 10
+  }
+]
